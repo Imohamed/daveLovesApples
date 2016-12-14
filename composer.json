@@ -1,0 +1,14 @@
+{
+    "name": "vendor/covered-inc",
+    "description": "Description of project CoveredInc.",
+    "authors": [
+        {
+            "name": "leannewilliston",
+            "email": "leannewilliston@gmail.com"
+        }
+    ],
+    "require": {
+        "kartik-v/bootstrap-star-rating": "v4.0.1",
+        "phpmailer/phpmailer": "v5.2.17"
+    }
+}
